@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49c91981f574e594e8eaa8cf76f62e1e, type: 3}
+  m_Name: Config
+  m_EditorClassIdentifier: 
+  Tasks:
+  - Id: 1
+    NameId: task_1
+    DelayReward: 3
+    BasePrice: 3
+    BaseReward: 3
+    Boosters:
+    - NameId: task_1_1
+      Price: 50
+      Coof: 50
+    - NameId: task_1_2
+      Price: 400
+      Coof: 100
+  - Id: 2
+    NameId: task_2
+    DelayReward: 6
+    BasePrice: 40
+    BaseReward: 40
+    Boosters:
+    - NameId: task_2_1
+      Price: 1200
+      Coof: 100
+    - NameId: task_2_2
+      Price: 4000
+      Coof: 200
+  - Id: 3
+    NameId: task_3
+    DelayReward: 10
+    BasePrice: 200
+    BaseReward: 200
+    Boosters:
+    - NameId: task_3_1
+      Price: 6000
+      Coof: 100
+    - NameId: task_3_2
+      Price: 20000
+      Coof: 150
+  - Id: 4
+    NameId: task_4
+    DelayReward: 17
+    BasePrice: 1000
+    BaseReward: 1000
+    Boosters:
+    - NameId: task_4_1
+      Price: 15000
+      Coof: 100
+    - NameId: task_4_2
+      Price: 50000
+      Coof: 200
+  - Id: 5
+    NameId: task_5
+    DelayReward: 30
+    BasePrice: 5000
+    BaseReward: 5000
+    Boosters:
+    - NameId: task_5_1
+      Price: 100000
+      Coof: 200
+    - NameId: task_5_2
+      Price: 500000
+      Coof: 400
