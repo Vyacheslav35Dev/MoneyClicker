@@ -1,2 +1,2 @@
 # MoneyClicker
-Adevant - Unity 2022.3.62, LeoEcs.
+Advant - Unity 2022.3.62, LeoEcs.
