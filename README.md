@@ -1,2 +1,2 @@
 # MoneyClicker
-Advant - Unity 2022.3.62, LeoEcs.
+Advant Limited - Unity 2022.3.62, LeoEcs.
